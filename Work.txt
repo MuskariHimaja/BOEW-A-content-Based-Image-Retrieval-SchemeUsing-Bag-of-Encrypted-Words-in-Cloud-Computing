@@ -1,16 +1,60 @@
-BOEW A Content based Image Retrieval Scheme using Bag of Encrypted Words in Cloud Computing
+Cloud Server
+----------
+Login,
+View All users and authorize, 
+View All Friends Requests and Responses,
+View all User Images with Comments, 
+View All Images Ranks, 
+View All Images shared details, 
+View All Bag Of Words, 
+View All Images rank in chart, 
+View Images shared ratio by users, 
+View Bag Of Words Results. 
 
 
 
-IEEE Transactions on Services Computing,Volume:15,Issue:1,Issue Date:01.Jan.-Feb.2022
+
+
+End User
+-----------
+
+Register and Login,
+View Profile, 
+Search Friend and Friend Request, 
+View All Friends,
+Upload Image, 
+View All My Images, 
+Search Images, 
+View All My Friends Image. 
+
+
+Members
+---------
+Image,
+Image Name,
+username,
+Date and Time,
+From User, 
+To User, 
+Intension.
 
 
 
 
-CREATE TABLE `searchfound` (
-  `id` int(11) NOT NULL auto_increment,
-  `user` text,
-  `keyword` text,
-  `imgname` text,`date` text,
-  PRIMARY KEY  (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
